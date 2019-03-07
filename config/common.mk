@@ -122,12 +122,10 @@ PRODUCT_PACKAGES += \
     LineageParts \
     Development \
     Profiles
-    Terminal
 
 # Custom Lineage packages
 PRODUCT_PACKAGES += \
     LineageSettingsProvider \
-    LineageSetupWizard \
     Eleven \
     ExactCalculator \
     LockClock \
